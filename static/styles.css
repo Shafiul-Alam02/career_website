@@ -28,16 +28,13 @@ p {
   font-size:15px;
   text-align:center;
   font-family: Arial;
+  margin-top: 10px;
 }
 
 #container{
-  
+  max-width:720px;
+  margin:0 auto;
 }
-
-button{
-position: center;
-  
-}
-.buttonp{
-  margin-left:670px;
+.btn{
+  margin-left:310px;
 }
