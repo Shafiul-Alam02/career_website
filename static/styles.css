@@ -1,0 +1,43 @@
+h1 {
+font-size: 40px;
+  font-family: Roboto;
+  font-weight:normal;
+  text-align:center;
+  
+}
+
+#banner {
+  width: 100%;
+  height: 350px;
+  object-fit:cover;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: Roboto;
+  font-weight: normal;
+  text-align:center;
+}
+
+p {
+  font-family: Roboto;
+  text-align: center;
+  
+}
+#copyright{
+  font-size:15px;
+  text-align:center;
+  font-family: Arial;
+}
+
+#container{
+  
+}
+
+button{
+position: center;
+  
+}
+.buttonp{
+  margin-left:670px;
+}
